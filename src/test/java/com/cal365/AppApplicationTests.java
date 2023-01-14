@@ -1,4 +1,4 @@
-package com.cal365.app;
+package com.cal365;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
