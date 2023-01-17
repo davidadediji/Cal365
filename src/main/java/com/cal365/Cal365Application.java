@@ -10,6 +10,7 @@ import java.util.List;
 public class Cal365Application {
     public static void main(String[] args) {
         SpringApplication.run(Cal365Application.class, args);
+
     }
 }
 
