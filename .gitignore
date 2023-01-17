@@ -31,3 +31,14 @@ build/
 
 ### VS Code ###
 .vscode/
+
+@id
+@SequenceGenerator(
+    name="..._id_sequence",
+    sequenceName = "..._id_sequence"
+)
+@GeneratedValue(
+    strategy = GenerationType.SEQUENCE,
+    generator = "customer_id_sequence"
+
+)
